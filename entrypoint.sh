@@ -45,9 +45,9 @@ fi
 main() {
     echo "Starting deploy..."
 
-    git config --global --add safe.directory /github/workspace
-    git config --system --add safe.directory /github/workspace
-    
+    git config --global --add safe.directory $TARGET_REPOSITORY
+    git config --system --add safe.directory $TARGET_REPOSITORY
+
     git config --global url."https://".insteadOf git://
     ## $GITHUB_SERVER_URL is set as a default environment variable in all workflows, default is https://github.com
     git config --global url."$GITHUB_SERVER_URL/".insteadOf "git@${GITHUB_HOSTNAME}":
