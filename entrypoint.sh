@@ -45,6 +45,7 @@ fi
 main() {
     echo "Starting deploy..."
 
+    echo $TARGET_REPOSITORY
     git config --global --add safe.directory $TARGET_REPOSITORY
     git config --system --add safe.directory $TARGET_REPOSITORY
 
