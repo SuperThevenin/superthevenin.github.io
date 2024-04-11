@@ -9,7 +9,7 @@ description = "Need Something ?"
 default_language = "en"
 
 # The site theme to use.
-theme = "archie-zola"
+theme = "apollo"
 
 # For overriding the default ouput directory `public`, set it to another value (e.g.: "docs")
 output_dir = "public"
@@ -20,7 +20,7 @@ compile_sass = true
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = "SuperThevenin BlogPost"
 	mathjax = true # enable MathJax support
 	katex = true # enable KaTeX support
 
