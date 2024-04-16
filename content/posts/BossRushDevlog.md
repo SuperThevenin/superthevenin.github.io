@@ -16,13 +16,13 @@ author = { name = "SuperThevenin", social= "https://github.com/SuperThevenin" }
 
 I don't know if you feel like this, but at work you tend to be bored. So we all end up at the point where we want to make video games : 
 
-![idea picture](../../static/pictures/devblog1.jpg?raw=true "Idea Picture")
+![idea picture](https://github.com/SuperThevenin/superthevenin.github.io/blob/main/static/pictures/devblog1.jpg?raw=true "Idea Picture")
 
 So when the monotony hit us last December, we gave ourselves a little challenge with the idea of doing a gamejam. Because we missed the full night rush of a school project. You find yourself scrolling through [itch.io](http://itch.io/) between 24-hour gamejams and 6-month gamejams - there's so much choice! Here you'll find Jeremy's Idea of Capitalism, an entry for the Boss Rush game jam 2023. It's a boss rush where you play as a little robot on wheels, the game is so juicy no time to lose straight to the point. Furthermore the event is a small game jam with 124 entries. 
 
 We looked at each other and said “OK, that's it, let's go and take part in the 2024 edition !!!”
 
-![boss rush logo](../../static/pictures/bossrushlogo.png?raw=true "boss rush logo")
+![boss rush logo](https://github.com/SuperThevenin/superthevenin.github.io/blob/main/static/pictures/bossrushlogo.png?raw=true "boss rush logo")
 
 
 ### Ideas and Concepts
@@ -33,7 +33,7 @@ Here we are, at the beginning of January in the process of making a boss fight g
 
 Our first approach was to list all the ideas that we had about this theme. The goal of this was to put no limit on anything, it could be game-design, art or story idea. What we wanted was something that goes straight to the point and to have fun.
 
-![white board with lot of post-it](../../static/pictures/devlog4_1.jpg?raw=true "white board with lot of post-it")
+![white board with lot of post-it](https://github.com/SuperThevenin/superthevenin.github.io/blob/main/static/pictures/devlog4_1.jpg?raw=true "white board with lot of post-it")
 
 
 A small list of the genius ideas we came up with:
@@ -76,7 +76,7 @@ Then, with a lot of games played we end up extracting what we liked and what to 
 - The boss have to feel over powerfull from the beginning, the player reaction should be “Oh shit ! What is that !”
 - The fight should be more and more epic until the final point where it goes crazy.
 
-![massive boss](../../static/pictures/devlog3.jpg?raw=true "massive boss")
+![massive boss](https://github.com/SuperThevenin/superthevenin.github.io/blob/main/static/pictures/devlog3.jpg?raw=true "massive boss")
 
 ### The Final Idea
 
@@ -88,7 +88,7 @@ We decide to go on a third-person view from the top, with a exchange mechanic ba
 
 The goal would be to make a slightly large map with successive bosses. The control of the character would be done with the mouse, the A key for the exchange spell, mouse click melee to do damage and an open slot where you can retrieve contextual objects like weapons or items.
 
-![swap rocks](../../static/pictures/devlog2.jpg?raw=true "swap rocks")
+![swap rocks](https://github.com/SuperThevenin/superthevenin.github.io/blob/main/static/pictures/devlog2.jpg?raw=true "swap rocks")
 
 Sounds good ? Like a league of legend but you have one spell and epic fight like hades.
 
