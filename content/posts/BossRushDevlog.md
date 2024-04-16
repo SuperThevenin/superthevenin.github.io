@@ -44,8 +44,6 @@ A small list of the genius ideas we came up with:
 - Exchanging perspectives
 - The trading market (it’s called exchange market)
 
-<br>
-
 ### What Boss we want to make ? 
 
 To not totally go out of the bound, we wanted to see the state of the art by taking inspiration of games we enjoy.
@@ -64,8 +62,6 @@ Therefore, We went back to see a lot of different games and here is the list of 
  
     We would say that’s a bit of a mix between the two others, by adding the puzzle game with the attack and the fighting gameplay.
 
-
-<br>
 
 ### Progress
 
