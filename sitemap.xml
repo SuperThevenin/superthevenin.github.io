@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://superthevenin.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/about/</loc>
+        <lastmod>2024-03-26</lastmod>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/posts/bossrushdevlog/</loc>
+        <lastmod>2024-04-04</lastmod>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/projects/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/projects/tergesa/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://superthevenin.github.io/tags/game-jam/</loc>
+    </url>
+</urlset>
