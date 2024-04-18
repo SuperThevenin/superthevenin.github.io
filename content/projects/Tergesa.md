@@ -1,6 +1,6 @@
 +++
 title = "Tergesa"
-date = "2024-18-04"
+date = "2024-04-18"
 description = "Boss rush game jam 2024"
 
 [taxonomies]
