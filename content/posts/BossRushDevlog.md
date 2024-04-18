@@ -63,7 +63,7 @@ Therefore, We went back to see a lot of different games and here is the list of 
     We would say that’s a bit of a mix between the two others, by adding the puzzle game with the attack and the fighting gameplay.
 
 
-### Progress
+### Boss Features
 
 Then, with a lot of games played we end up extracting what we liked and what to avoid in a boss fight :
 

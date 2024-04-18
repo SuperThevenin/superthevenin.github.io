@@ -8,4 +8,9 @@ remote_image = "https://img.itch.zone/aW1nLzE0OTQzMzM0LnBuZw==/315x250%23c/iJfKH
 +++
 
 #### Tergesa
-[Read more ->](https://josiahmarchand.itch.io/tergesa)
+In this top-down action game, use your melee attacks and magic abilities to defeat the god that is terrorizing your home.
+
+
+This game was created as part of the Boss Rush Gamejam.
+
+[Download](https://josiahmarchand.itch.io/tergesa)
